@@ -17,3 +17,4 @@ mongoose.connection.on("error", (error) => {
 require("../models/Usuario");
 require("../models/Producto");
 require("../models/Carrito");
+require("../models/Categoria");
